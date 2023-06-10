@@ -1,0 +1,46 @@
+body{
+background-color:#93E9BE;
+}
+  .main2{
+background-color: cornflowerblue;
+border: solid;
+  border-color: #a5c2f8;
+  border-width: 5px;
+border-radius: 25px;
+}
+h1{
+  font-size: 50px;
+font-family: 'Handlee', cursive;
+}
+.main3{
+  font-size: 30px;
+  font-family: 'Handlee', cursive;
+  
+}
+.cutepic{
+ margin-top: 20px;
+  width: 300px;
+  height: 300px;
+  border: solid;
+  border-color: #3EB489 ;
+  border-radius: 8px;
+}
+
+.hi{
+  font-size: 50px;
+  font-family: 'Just Another Hand', cursive;
+}
+
+ul li{
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 40px;
+  margin: 40px;
+}
+img{
+
+  width: 600px;
+  height: 400px;
+  border: solid;
+  border-color:#3EB489;
+  border-radius: 8px;
+}
