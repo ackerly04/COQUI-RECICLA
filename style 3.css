@@ -1,0 +1,48 @@
+body{
+  background-color: #cff2cf;
+}
+div{
+  background-color: #e86464;
+  border: solid;
+  border-color: #f04242;
+}
+h1{
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 50px;
+  
+}
+h3{
+  font-size: 33px;
+  font-family: 'Kanit', sans-serif;
+}
+.second{
+background-color: #ffff85;
+  border: solid;
+  border-radius: 25px;
+  border-color: #ffff2e;
+}
+.oh{
+font-size: 30px;
+  font-family: 'Kanit', sans-serif;
+  
+}
+
+img{
+width: 300px;
+height: 250px;
+  border: solid;
+  border-color: #42ff42;
+  border-width: 5px;
+}
+.ohe{
+
+  font-size: 40px;
+}
+
+
+
+
+
+
+
+
