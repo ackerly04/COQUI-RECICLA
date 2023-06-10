@@ -1,0 +1,316 @@
+body{
+  margin: 0px;
+  background-color:#cff2cf ;
+}
+.coq{
+width: 225px;
+height: 225px;
+
+}
+#MAIN{
+background-color:#8ef58e ;
+border: solid;
+  border-color: #63bf63 ;
+
+  
+  }
+nav{
+background-color: turquoise;
+border-radius: 25px;
+  border: solid;
+  border-color: darkturquoise;
+  margin-top: 3px;
+}
+nav a{
+font-size: 20px;
+  
+}
+nav a:hover{
+background-color: #ffc2cc;
+  
+}
+
+.main1{
+font-size: 50px;
+  font-family: 'Proza Libre', sans-serif;
+
+  
+}
+  .by1{
+    font-family: 'Pacifico', cursive;
+  }
+h2{
+font-family: 'Oswald', sans-serif;
+  font-size: 35px;
+}
+
+img{
+width: 900px;
+height: 400px;
+  
+}
+
+.links{
+color: black;
+font-size: 20px;
+  
+}
+
+
+
+
+
+
+  
+
+
+.coqui{
+width:100px;
+
+  
+}
+
+
+.A{
+background-color: #CCCCFF;
+border: solid;
+  border-color: #9494db;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+  align-items: center;
+}
+
+  
+
+  .porque{
+
+font-size: 40px;
+    
+  }
+
+.B{
+  background-color: #f9e1cd;
+  border: solid;
+  border-color:#ffdbbd;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+}
+
+.faltare{
+  font-size: 25px;
+}
+
+  .C{
+    background-color:#65fbfb;
+  border: solid;
+  border-color:#2dd2d2;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+  }
+
+
+.quedebemoshacer{
+
+font-size: 40px;
+  
+}
+.D{
+      background-color:#fbf583;
+  border: solid;
+  border-color:#f0e956;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+  }
+
+.reciclaahora{
+
+font-size: 25px;
+}
+
+.E{
+  background-color:#ff4242;
+  border: solid;
+  border-color:red;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+}
+.VALELAPENA{
+font-size: 40px;
+  
+}
+.sivale{
+
+
+  font-size: 25px;
+}
+
+.cutequestion{
+border: solid;
+border-width: 5px;
+  border-color:#47ff47 ;
+width: 200px;
+  height: 200px;
+}
+
+#qsere{
+font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+
+  
+}
+ul{
+max-width: 400px;
+font-size: 30;
+  border: solid;
+  border-color: #00ad00;
+  
+}
+.reyclequestion2{
+width: 300px;
+  height: 300px;
+  border: solid;
+  border-color: #47ff47 ;
+  border-width: 5px;
+}
+ul li{
+border:solid;
+border-color: #00ad00;
+}
+.errores{
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+  
+}
+ol{
+font-size: 30px;
+
+  
+}
+
+
+.prtlist{
+font-size: 25px;
+  
+}
+
+
+ol li{
+margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: 'Poppins', sans-serif;
+  
+}
+.reciclaya{
+font-family: 'Architects Daughter', cursive;
+font-size: 40px;
+  
+}
+
+.empieza{
+  margin-top: 150px;
+}
+
+
+
+
+
+
+.hi{
+height: 30px;
+  width: 250px;
+background-color: #84ff80;
+  font-size: 25px;
+  border-color: #39bd35;
+}
+
+
+  .idk{
+background-color: #bfeaf8;
+color: white;
+    font-size: 11px;
+  }
+
+.TIESTO{
+  width: 400px;
+  height: 350px;
+}
+.bird{
+  width: 400px;
+  height: 350px;
+}
+  .Lapicero{
+     width: 400px;
+  height: 350px;
+  }
+.piggybank{
+      width: 400px;
+  height: 350px; 
+}
+.phone{
+   width: 400px;
+  height: 350px; 
+}
+p{
+  font-size: 28px;
+  font-family: 'Playfair Display', serif;
+}
+
+.rch{
+    background-color:#fbb623;
+  border: solid;
+  border-color:#eca204;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+}
+.empieza{
+   background-color:#B6D0E2;
+  border: solid;
+  border-color:#52b7ff;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+}
+button{
+  border: solid;
+  border-radius: 25px;
+  background-color: #0fffdb;
+  border-color: #00c7a9;
+}
+.click{
+    background-color:#00e000;
+  border: solid;
+  border-color:#00b300;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+}
+.click2{
+  font-size: 25px;
+  border-radius: 25px;
+  border: solid;
+  border-color: #ffc14d;
+  background-color: #ffaf1a;
+}
+footer{
+  background-color: #b3ffff;
+  color: #0400ff;
+  font-size: 25px;
+  margin-top: 30px;
+}
+.RC{
+   background-color:pink;
+  border: solid;
+  border-color:#ff8095;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-top: 40px;
+}
+#up{
+  background-color: #ff6b6b;
+}
