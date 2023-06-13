@@ -1,6 +1,12 @@
 body{
   background-color: #cff2cf;
 }
+#gob1{
+  background-color: #18f02a;
+  border-color: green;
+  border-radius: 20px;
+  font-family: 'Bubblegum Sans', cursive;
+}
 div{
   background-color: #e86464;
   border: solid;
