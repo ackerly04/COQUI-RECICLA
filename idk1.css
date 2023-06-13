@@ -1,6 +1,11 @@
 body{
 background-color:#93E9BE;
 }
+#gob{
+  background-color: #18f02a;
+  border-color: green;
+  border-radius: 20px;
+}
   .main2{
 background-color: cornflowerblue;
 border: solid;
